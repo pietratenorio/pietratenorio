@@ -1,7 +1,7 @@
 ### Hi, I'm Pietra! :D
 
 
-![Snake animation](https://github.com/pietratenorio/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/pietratenorio/pietratenorio/blob/output/github-contribution-grid-snake.svg)
 
 
 ### Contatos:
